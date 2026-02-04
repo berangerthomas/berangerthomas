@@ -49,7 +49,6 @@ I work with a wide range of tools for data science, engineering, and MLOps.
   <!-- AI & Data -->
   <a href="#"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" title="PyTorch" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" title="Scikit-learn" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" title="Pandas" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" title="Selenium" /></a>
   <br>
   <!-- Infra & MLOps -->
