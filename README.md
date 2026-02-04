@@ -26,7 +26,7 @@
 
 ### 🚀 About Me
 
-I am an **AI Engineer and Data Scientist** passionate about solving complex business challenges through the **design and industrialization of AI solutions**. I combine deep technical expertise in Machine Learning and MLOps with a rigorous approach to bridge the gap between experimental innovation and reliable production systems.
+I am an **AI Engineer and Data Scientist** passionate about solving complex business challenges through the **design and industrialization of AI solutions**. I combine technical expertise in machine learning, MLOps and software developement with a rigorous approach to bridge the gap between experimental innovation and reliable production systems.
 
 *   🔭 I specialize in **Machine Learning, GenAI, embedding, and audio processing**.
 *   💡 I love solving complex challenges: from **web scraping pipelines** to **local LLM deployment**.
@@ -56,17 +56,17 @@ I work with a wide range of tools for data science, engineering, and MLOps.
 
 ### 🏆 Featured Realizations
 
-Here are some innovative projects I have engineered, or contributed to, from ideation to production.
+Here are some projects I have engineered, or contributed to, from ideation to production.
 
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :---: |
-| **SmartWatch** | Automated data workflow using web scraping and LLM-based structured extraction. **Achieved 75% reduction in manual processing time.** | ![GenAI](https://img.shields.io/badge/GenAI-LLM-blue) ![Python](https://img.shields.io/badge/Python-Scraping-yellow) | [View Code](https://github.com/datagora-erasme/smart_watch) |
-| **ForzaEmbed** | A RAG optimization tool. Grid-search for embedding hyperparameter tuning with heatmap visualization to optimize retrieval quality. | ![RAG](https://img.shields.io/badge/RAG-Optimization-orange) ![Viz](https://img.shields.io/badge/Data-Viz-purple) | [View Code](https://github.com/berangerthomas/ForzaEmbed) |
-| **StellaScript** | Fully autonomous, local, and open-source audio pipeline (demixing, diarization, timestamping) ensuring **data sovereignty**. | ![PyTorch](https://img.shields.io/badge/PyTorch-Audio-EE4C2C) ![Privacy](https://img.shields.io/badge/Privacy-Local-green) | [View Code](https://github.com/berangerthomas/StellaScript) |
-| **flac_toolkit** | A collection of CLI tools for FLAC audio file manipulation, metadata tagging, and batch processing. | ![Bash](https://img.shields.io/badge/Shell-Audio-4EAA25) | [View Code](https://github.com/berangerthomas/flac_toolkit) |
-| **SmartRescue** | *Contributor* - AI-powered emergency call center assistant that leverages real-time speech-to-text transcription combined with RAG to provide instant medical guidance. | ![Python](https://img.shields.io/badge/Python-AI-3776AB) | [View Code](https://github.com/maxenceLIOGIER/SmartRescue) |
-| **MIMOSA** | *Contributor* - R package that provides a from-scratch implementation of logistic regression with built-in preprocessing utilities, **handling mixed-type variables** seamlessly. | ![Data Science](https://img.shields.io/badge/Data-Research-orange) | [View Code](https://github.com/AntoineORUEZABALA/RepLogRM2) |
-| **ShadowLog** | *Contributor* - Log analysis platform featuring AI-powered clustering to help security analysts and developers detect hidden patterns and anomalies. | ![Python](https://img.shields.io/badge/Python-Automation-3776AB) | [View Code](https://github.com/berangerthomas/ShadowLog) |
+| | Project | Description | Tech Stack |
+| :---: | :--- | :--- | :--- |
+| <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/smartwatch-thumb.jpg"> | [**SmartWatch**](https://github.com/datagora-erasme/smart_watch) | Automated data workflow using web scraping and LLM-based structured extraction. **Achieved 75% reduction in manual processing time.** | ![GenAI](https://img.shields.io/badge/GenAI-LLM-blue) ![Python](https://img.shields.io/badge/Python-Scraping-yellow) |
+| | [**ForzaEmbed**](https://github.com/berangerthomas/ForzaEmbed) | A RAG optimization tool. Grid-search for embedding hyperparameter tuning with heatmap visualization to optimize retrieval quality. | ![RAG](https://img.shields.io/badge/RAG-Optimization-orange) ![Viz](https://img.shields.io/badge/Data-Viz-purple) |
+| <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/stellascript-thumb.jpg" width="50" height="50" alt="StellaScript"> | [**StellaScript**](https://github.com/berangerthomas/StellaScript) | Fully autonomous, local, and open-source audio pipeline (demixing, diarization, timestamping) ensuring **data sovereignty**. | ![PyTorch](https://img.shields.io/badge/PyTorch-Audio-EE4C2C) ![Privacy](https://img.shields.io/badge/Privacy-Local-green) |
+| | [**flac_toolkit**](https://github.com/berangerthomas/flac_toolkit) | A collection of CLI tools for FLAC audio file manipulation, metadata tagging, and batch processing. | ![Bash](https://img.shields.io/badge/Shell-Audio-4EAA25) |
+| | [**SmartRescue**](https://github.com/maxenceLIOGIER/SmartRescue) | *Contributor* - AI-powered emergency call center assistant that leverages real-time speech-to-text transcription combined with RAG to provide instant medical guidance. | ![Python](https://img.shields.io/badge/Python-AI-3776AB) |
+| | [**MIMOSA**](https://github.com/AntoineORUEZABALA/RepLogRM2) | *Contributor* - R package that provides a from-scratch implementation of logistic regression with built-in preprocessing utilities, **handling mixed-type variables** seamlessly. | ![Data Science](https://img.shields.io/badge/Data-Research-orange) |
+| | [**ShadowLog**](https://github.com/berangerthomas/ShadowLog) | *Contributor* - Log analysis platform featuring AI-powered clustering to help security analysts and developers detect hidden patterns and anomalies. | ![Python](https://img.shields.io/badge/Python-Automation-3776AB) |
 
 ---
 
