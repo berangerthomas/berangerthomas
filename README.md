@@ -4,7 +4,7 @@
 
   <!-- Animated subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Data+Scientist+%26+AI+Engineer;Building+AI+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Data+Scientist+%26+AI+Engineer;Building+ML/AI+Solutions" alt="Typing SVG" />
   </a>
 
   <p>
@@ -26,12 +26,12 @@
 
 ### 🚀 About Me
 
-I am an **AI Engineer and Data Scientist** passionate about solving complex business challenges through the **design and industrialization of AI solutions**. I combine technical expertise in machine learning, MLOps and software developement with a rigorous approach to bridge the gap between experimental innovation and reliable production systems.
+I am an **AI engineer and data scientist** passionate about solving complex business challenges through the **design and industrialization of ML/AI solutions**. I combine technical expertise in AI/machine learning, MLOps and software developement with a rigorous approach to bridge the gap between experimental innovation and reliable production systems.
 
-*   🔭 I specialize in **Machine Learning, GenAI, embedding, and audio processing**.
-*   💡 I love solving complex challenges: from **web scraping pipelines** to **local LLM deployment**.
-*   🤝 I value **mentorship & knowledge transfer**, creating educational materials to demystify AI.
-*   📷 **Hobbies:** When I'm not coding, I enjoy **hiking, mountain biking**, and creative arts like **calligraphy & photography**.
+* I specialize in **Machine Learning, GenAI, embedding, and audio processing**.
+* I love solving complex challenges: from **web scraping pipelines** to **local LLM deployment**.
+* I value **mentorship & knowledge transfer**, creating educational materials to demystify AI.
+* When I'm not coding, I enjoy **hiking, mountain biking**, and creative arts like **calligraphy & photography**.
 
 ---
 
@@ -41,13 +41,33 @@ I work with a wide range of tools for data science, engineering, and MLOps.
 
 <div align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,r,bash,regex&perline=12" alt="Languages" /><br>
+  <a href="#"><img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=r" alt="R" title="R" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=regex" alt="Regex" title="Regex" /></a>
+  <br>
   <!-- AI & Data -->
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,pandas,polars&perline=12" alt="AI Stack" /><br>
+  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" title="PyTorch" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" title="Scikit-learn" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" title="Pandas" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" title="Selenium" /></a>
+  <br>
   <!-- Infra & MLOps -->
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,fastapi&perline=12" alt="Infra" /><br>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="Kubernetes" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=redhat" alt="Red Hat" title="Red Hat" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI" /></a>
+  <br>
   <!-- Databases & Viz -->
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,tableau,grafana&perline=12" alt="Data & Viz" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" /></a>
+  <br>
+  <!-- Tools -->
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" /></a>
 </div>
 
 **Other key skills:** LLMs (RAG, Embeddings), NLP (SpaCy), Vector DBs (ChromaDB, FAISS), Airflow, ELK Stack.
