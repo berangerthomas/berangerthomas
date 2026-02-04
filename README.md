@@ -28,16 +28,16 @@
 
 I am an **AI Engineer and Data Scientist** passionate about solving complex business challenges through the **design and industrialization of AI solutions**. I combine deep technical expertise in Machine Learning and MLOps with a rigorous approach to bridge the gap between experimental innovation and reliable production systems.
 
-*   🔭 I specialize in **GenAI, RAG architectures, and Audio Processing**.
+*   🔭 I specialize in **Machine Learning, GenAI, embedding, and audio processing**.
 *   💡 I love solving complex challenges: from **web scraping pipelines** to **local LLM deployment**.
 *   🤝 I value **mentorship & knowledge transfer**, creating educational materials to demystify AI.
-*   📷 **Hobbies:** When I'm not coding, I enjoy **Hiking, Mountain Biking**, and creative arts like **Calligraphy & Photography**.
+*   📷 **Hobbies:** When I'm not coding, I enjoy **hiking, mountain biking**, and creative arts like **calligraphy & photography**.
 
 ---
 
 ### 🛠️ Technical Stack
 
-I work with a wide range of tools for Data Science, Engineering, and MLOps.
+I work with a wide range of tools for data science, engineering, and MLOps.
 
 <div align="center">
   <!-- Languages -->
