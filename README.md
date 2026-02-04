@@ -4,7 +4,7 @@
 
   <!-- Animated subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+Data+Scientist;Building+Scalable+AI+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Data+Scientist+%26+AI+Engineer;Building+Scalable+AI+Solutions" alt="Typing SVG" />
   </a>
 
   <p>
