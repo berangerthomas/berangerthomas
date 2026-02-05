@@ -80,7 +80,7 @@ Here are some projects I have engineered, or contributed to, from ideation to pr
 <tr>
 <td width="50%" valign="top">
 <p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/smartwatch-thumb.jpg" width="85%" alt="SmartWatch">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/smartwatch-thumb.jpg" width="95%" alt="SmartWatch">
 </p>
 <p>Automated data workflow using web scraping and LLM-based structured extraction. <strong>Achieved 75% reduction in manual processing time.</strong></p>
 <p>
@@ -91,7 +91,7 @@ Here are some projects I have engineered, or contributed to, from ideation to pr
 </td>
 <td width="50%" valign="top">
 <p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/forzaembed.jpg" width="85%" alt="ForzaEmbed">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/forzaembed.jpg" width="95%" alt="ForzaEmbed">
 </p>
 <p>A RAG optimization tool. Grid-search for embedding hyperparameter tuning with heatmap visualization to optimize retrieval quality.</p>
 <p>
@@ -104,7 +104,7 @@ Here are some projects I have engineered, or contributed to, from ideation to pr
 <tr>
 <td width="50%" valign="top">
 <p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/stellascript-thumb.jpg" width="85%" alt="StellaScript">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/stellascript-thumb.jpg" width="95%" alt="StellaScript">
 </p>
 <p>Fully autonomous, local, and open-source audio pipeline (demixing, diarization, timestamping) ensuring <strong>data sovereignty</strong>.</p>
 <p>
@@ -115,7 +115,7 @@ Here are some projects I have engineered, or contributed to, from ideation to pr
 </td>
 <td width="50%" valign="top">
 <p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/asrlab.jpg" width="85%" alt="ASR.lab">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/asrlab.jpg" width="95%" alt="ASR.lab">
 </p>
 <p>Benchmarking platform for ASR systems with multi-engine support (Whisper, Wav2Vec2, Vosk), audio degradation/enhancement pipelines, and interactive HTML reports.</p>
 <p>
@@ -128,7 +128,7 @@ Here are some projects I have engineered, or contributed to, from ideation to pr
 <tr>
 <td width="50%" valign="top">
 <p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/flactoolkit-thumb.jpg" width="85%" alt="flac_toolkit">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/flactoolkit-thumb.jpg" width="95%" alt="flac_toolkit">
 </p>
 <p>A collection of CLI tools for FLAC audio file manipulation, metadata tagging, and batch processing.</p>
 <p>
@@ -138,7 +138,7 @@ Here are some projects I have engineered, or contributed to, from ideation to pr
 </td>
 <td width="50%" valign="top">
 <p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/smart_rescue.png" width="85%" alt="SmartRescue">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/smart_rescue.png" width="95%" alt="SmartRescue">
 </p>
 <p><em>Contributor</em> - AI-powered emergency call center assistant that leverages real-time speech-to-text transcription combined with RAG to provide instant medical guidance.</p>
 <p>
@@ -150,7 +150,7 @@ Here are some projects I have engineered, or contributed to, from ideation to pr
 <tr>
 <td width="50%" valign="top">
 <p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/mimosa.png" width="85%" alt="MIMOSA">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/mimosa.png" width="95%" alt="MIMOSA">
 </p>
 <p><em>Contributor</em> - R package that provides a from-scratch implementation of logistic regression with built-in preprocessing utilities, <strong>handling mixed-type variables</strong> seamlessly.</p>
 <p>
@@ -160,7 +160,7 @@ Here are some projects I have engineered, or contributed to, from ideation to pr
 </td>
 <td width="50%" valign="top">
 <p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/shadowlog.png" width="85%" alt="ShadowLog">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/shadowlog.png" width="95%" alt="ShadowLog">
 </p>
 <p><em>Contributor</em> - Log analysis platform featuring AI-powered clustering to help security analysts and developers detect hidden patterns and anomalies.</p>
 <p>
