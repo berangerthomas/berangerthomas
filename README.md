@@ -91,7 +91,7 @@ Here are some projects I have engineered, or contributed to, from ideation to pr
 </td>
 <td width="50%" valign="top">
 <p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/forzaembed.jpg" width="95%" alt="ForzaEmbed">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/forzaembed.png" width="95%" alt="ForzaEmbed">
 </p>
 <p>A RAG optimization tool. Grid-search for embedding hyperparameter tuning with heatmap visualization to optimize retrieval quality.</p>
 <p>
