@@ -54,7 +54,6 @@ I work with a wide range of tools for data science, engineering, and MLOps.
   <a href="#"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="Kubernetes" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=redhat" alt="Red Hat" title="Red Hat" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI" /></a>
   <br>
@@ -141,7 +140,7 @@ A collection of CLI tools for FLAC audio file manipulation, metadata tagging, an
 #### [SmartRescue](https://github.com/maxenceLIOGIER/SmartRescue)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/smart_rescue.png" width="95%" alt="SmartRescue">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/smart_rescue.png" width="50%" alt="SmartRescue">
 </p>
 
 *Contributor* - AI-powered emergency call center assistant that leverages real-time speech-to-text transcription combined with RAG to provide instant medical guidance.
