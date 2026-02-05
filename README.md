@@ -116,7 +116,7 @@ Fully autonomous, local, and open-source audio pipeline (demixing, diarization, 
 #### [ASR.lab](https://github.com/berangerthomas/ASR.lab)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/asrlab.jpg" width="95%" alt="ASR.lab">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/asrlab.png" width="95%" alt="ASR.lab">
 </p>
 
 Benchmarking platform for ASR systems with multi-engine support (Whisper, Wav2Vec2, Vosk), audio degradation/enhancement pipelines, and interactive HTML reports.
@@ -128,7 +128,7 @@ Benchmarking platform for ASR systems with multi-engine support (Whisper, Wav2Ve
 #### [flac_toolkit](https://github.com/berangerthomas/flac_toolkit)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/flactoolkit-thumb.jpg" width="95%" alt="flac_toolkit">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/flactoolkit.png" width="95%" alt="flac_toolkit">
 </p>
 
 A collection of CLI tools for FLAC audio file manipulation, metadata tagging, and batch processing.
