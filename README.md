@@ -79,11 +79,11 @@ Here are some projects I have engineered, or contributed to, from ideation to pr
 
 #### [SmartWatch](https://github.com/datagora-erasme/smart_watch)
 
+Automated data workflow using web scraping and LLM-based structured extraction. **Achieved 75% reduction in manual processing time.**
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/smartwatch.png" width="95%" alt="SmartWatch">
 </p>
-
-Automated data workflow using web scraping and LLM-based structured extraction. **Achieved 75% reduction in manual processing time.**
 
 ![GenAI](https://img.shields.io/badge/GenAI-LLM-blue) ![Python](https://img.shields.io/badge/Python-Scraping-yellow)
 
@@ -91,11 +91,11 @@ Automated data workflow using web scraping and LLM-based structured extraction. 
 
 #### [ForzaEmbed](https://github.com/berangerthomas/ForzaEmbed)
 
+A RAG optimization tool. Grid-search for embedding hyperparameter tuning with heatmap visualization to optimize retrieval quality.
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/forzaembed.png" width="95%" alt="ForzaEmbed">
 </p>
-
-A RAG optimization tool. Grid-search for embedding hyperparameter tuning with heatmap visualization to optimize retrieval quality.
 
 ![RAG](https://img.shields.io/badge/RAG-Optimization-orange) ![Viz](https://img.shields.io/badge/Data-Viz-purple)
 
@@ -103,11 +103,11 @@ A RAG optimization tool. Grid-search for embedding hyperparameter tuning with he
 
 #### [StellaScript](https://github.com/berangerthomas/StellaScript)
 
+Fully autonomous, local, and open-source audio pipeline (demixing, diarization, timestamping) ensuring **data sovereignty**.
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/stellascript-thumb.jpg" width="95%" alt="StellaScript">
 </p>
-
-Fully autonomous, local, and open-source audio pipeline (demixing, diarization, timestamping) ensuring **data sovereignty**.
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-Audio-EE4C2C) ![Privacy](https://img.shields.io/badge/Privacy-Local-green)
 
@@ -115,11 +115,11 @@ Fully autonomous, local, and open-source audio pipeline (demixing, diarization, 
 
 #### [ASR.lab](https://github.com/berangerthomas/ASR.lab)
 
+Benchmarking platform for ASR systems with multi-engine support (Whisper, Wav2Vec2, Vosk), audio degradation/enhancement pipelines, and interactive HTML reports.
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/asrlab.png" width="95%" alt="ASR.lab">
 </p>
-
-Benchmarking platform for ASR systems with multi-engine support (Whisper, Wav2Vec2, Vosk), audio degradation/enhancement pipelines, and interactive HTML reports.
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-Audio-EE4C2C) ![Python](https://img.shields.io/badge/Python-Benchmark-3776AB)
 
@@ -127,11 +127,11 @@ Benchmarking platform for ASR systems with multi-engine support (Whisper, Wav2Ve
 
 #### [flac_toolkit](https://github.com/berangerthomas/flac_toolkit)
 
+A collection of CLI tools for FLAC audio file manipulation, metadata tagging, and batch processing.
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/flactoolkit.png" width="95%" alt="flac_toolkit">
 </p>
-
-A collection of CLI tools for FLAC audio file manipulation, metadata tagging, and batch processing.
 
 ![Bash](https://img.shields.io/badge/Shell-Audio-4EAA25)
 
@@ -139,11 +139,11 @@ A collection of CLI tools for FLAC audio file manipulation, metadata tagging, an
 
 #### [SmartRescue](https://github.com/maxenceLIOGIER/SmartRescue)
 
+*Contributor* - AI-powered emergency call center assistant that leverages real-time speech-to-text transcription combined with RAG to provide instant medical guidance.
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/smart_rescue.png" width="50%" alt="SmartRescue">
 </p>
-
-*Contributor* - AI-powered emergency call center assistant that leverages real-time speech-to-text transcription combined with RAG to provide instant medical guidance.
 
 ![Python](https://img.shields.io/badge/Python-AI-3776AB)
 
@@ -151,11 +151,11 @@ A collection of CLI tools for FLAC audio file manipulation, metadata tagging, an
 
 #### [MIMOSA](https://github.com/AntoineORUEZABALA/RepLogRM2)
 
+*Contributor* - R package that provides a from-scratch implementation of logistic regression with built-in preprocessing utilities, **handling mixed-type variables** seamlessly.
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/mimosa.png" width="95%" alt="MIMOSA">
 </p>
-
-*Contributor* - R package that provides a from-scratch implementation of logistic regression with built-in preprocessing utilities, **handling mixed-type variables** seamlessly.
 
 ![Data Science](https://img.shields.io/badge/Data-Research-orange)
 
@@ -163,11 +163,11 @@ A collection of CLI tools for FLAC audio file manipulation, metadata tagging, an
 
 #### [ShadowLog](https://github.com/berangerthomas/ShadowLog)
 
+*Contributor* - Log analysis platform featuring AI-powered clustering to help security analysts and developers detect hidden patterns and anomalies.
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/shadowlog.png" width="95%" alt="ShadowLog">
 </p>
-
-*Contributor* - Log analysis platform featuring AI-powered clustering to help security analysts and developers detect hidden patterns and anomalies.
 
 ![Python](https://img.shields.io/badge/Python-Automation-3776AB)
 
