@@ -102,6 +102,7 @@ Here are some projects I have engineered, or contributed to, from ideation to pr
 </td>
 </tr>
 <tr>
+<p>🔗 <a href="https://github.com/berangerthomas/StellaScript"><strong>StellaScript</strong></a></p>
 <td width="50%" valign="top">
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/stellascript-thumb.jpg" width="95%" alt="StellaScript">
@@ -111,7 +112,6 @@ Here are some projects I have engineered, or contributed to, from ideation to pr
 <img src="https://img.shields.io/badge/PyTorch-Audio-EE4C2C" alt="PyTorch">
 <img src="https://img.shields.io/badge/Privacy-Local-green" alt="Privacy">
 </p>
-<p>🔗 <a href="https://github.com/berangerthomas/StellaScript"><strong>StellaScript</strong></a></p>
 </td>
 <td width="50%" valign="top">
 <p align="center">
