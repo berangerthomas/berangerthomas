@@ -79,6 +79,7 @@ Here are some projects I have engineered, or contributed to, from ideation to pr
 <table>
 <tr>
 <td width="50%" valign="top">
+<p>🔗 <a href="https://github.com/datagora-erasme/smart_watch"><strong>SmartWatch</strong></a></p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/smartwatch-thumb.jpg" width="95%" alt="SmartWatch">
 </p>
@@ -87,9 +88,9 @@ Here are some projects I have engineered, or contributed to, from ideation to pr
 <img src="https://img.shields.io/badge/GenAI-LLM-blue" alt="GenAI">
 <img src="https://img.shields.io/badge/Python-Scraping-yellow" alt="Python">
 </p>
-<p>🔗 <a href="https://github.com/datagora-erasme/smart_watch"><strong>SmartWatch</strong></a></p>
 </td>
 <td width="50%" valign="top">
+<p>🔗 <a href="https://github.com/berangerthomas/ForzaEmbed"><strong>ForzaEmbed</strong></a></p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/forzaembed.png" width="95%" alt="ForzaEmbed">
 </p>
@@ -98,12 +99,11 @@ Here are some projects I have engineered, or contributed to, from ideation to pr
 <img src="https://img.shields.io/badge/RAG-Optimization-orange" alt="RAG">
 <img src="https://img.shields.io/badge/Data-Viz-purple" alt="Viz">
 </p>
-<p>🔗 <a href="https://github.com/berangerthomas/ForzaEmbed"><strong>ForzaEmbed</strong></a></p>
 </td>
 </tr>
 <tr>
-<p>🔗 <a href="https://github.com/berangerthomas/StellaScript"><strong>StellaScript</strong></a></p>
 <td width="50%" valign="top">
+<p>🔗 <a href="https://github.com/berangerthomas/StellaScript"><strong>StellaScript</strong></a></p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/stellascript-thumb.jpg" width="95%" alt="StellaScript">
 </p>
@@ -114,6 +114,7 @@ Here are some projects I have engineered, or contributed to, from ideation to pr
 </p>
 </td>
 <td width="50%" valign="top">
+<p>🔗 <a href="https://github.com/berangerthomas/ASR.lab"><strong>ASR.lab</strong></a></p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/asrlab.jpg" width="95%" alt="ASR.lab">
 </p>
@@ -122,11 +123,11 @@ Here are some projects I have engineered, or contributed to, from ideation to pr
 <img src="https://img.shields.io/badge/PyTorch-Audio-EE4C2C" alt="PyTorch">
 <img src="https://img.shields.io/badge/Python-Benchmark-3776AB" alt="Python">
 </p>
-<p>🔗 <a href="https://github.com/berangerthomas/ASR.lab"><strong>ASR.lab</strong></a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<p>🔗 <a href="https://github.com/berangerthomas/flac_toolkit"><strong>flac_toolkit</strong></a></p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/flactoolkit-thumb.jpg" width="95%" alt="flac_toolkit">
 </p>
@@ -134,9 +135,9 @@ Here are some projects I have engineered, or contributed to, from ideation to pr
 <p>
 <img src="https://img.shields.io/badge/Shell-Audio-4EAA25" alt="Bash">
 </p>
-<p>🔗 <a href="https://github.com/berangerthomas/flac_toolkit"><strong>flac_toolkit</strong></a></p>
 </td>
 <td width="50%" valign="top">
+<p>🔗 <a href="https://github.com/maxenceLIOGIER/SmartRescue"><strong>SmartRescue</strong></a></p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/smart_rescue.png" width="95%" alt="SmartRescue">
 </p>
@@ -144,11 +145,11 @@ Here are some projects I have engineered, or contributed to, from ideation to pr
 <p>
 <img src="https://img.shields.io/badge/Python-AI-3776AB" alt="Python">
 </p>
-<p>🔗 <a href="https://github.com/maxenceLIOGIER/SmartRescue"><strong>SmartRescue</strong></a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<p>🔗 <a href="https://github.com/AntoineORUEZABALA/RepLogRM2"><strong>MIMOSA</strong></a></p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/mimosa.png" width="95%" alt="MIMOSA">
 </p>
@@ -156,9 +157,9 @@ Here are some projects I have engineered, or contributed to, from ideation to pr
 <p>
 <img src="https://img.shields.io/badge/Data-Research-orange" alt="Data Science">
 </p>
-<p>🔗 <a href="https://github.com/AntoineORUEZABALA/RepLogRM2"><strong>MIMOSA</strong></a></p>
 </td>
 <td width="50%" valign="top">
+<p>🔗 <a href="https://github.com/berangerthomas/ShadowLog"><strong>ShadowLog</strong></a></p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/shadowlog.png" width="95%" alt="ShadowLog">
 </p>
@@ -166,7 +167,6 @@ Here are some projects I have engineered, or contributed to, from ideation to pr
 <p>
 <img src="https://img.shields.io/badge/Python-Automation-3776AB" alt="Python">
 </p>
-<p>🔗 <a href="https://github.com/berangerthomas/ShadowLog"><strong>ShadowLog</strong></a></p>
 </td>
 </tr>
 </table>
