@@ -24,7 +24,7 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
 I am an **AI engineer and data scientist** passionate about solving complex business challenges through the **design and industrialization of ML/AI solutions**. I combine technical expertise in AI/machine learning, MLOps and software developement with a rigorous approach to bridge the gap between experimental innovation and reliable production systems.
 
@@ -34,7 +34,7 @@ I am an **AI engineer and data scientist** passionate about solving complex busi
 
 ---
 
-### 🛠️ Technical Stack
+## 🛠️ Technical Stack
 
 I work with a wide range of tools for data science, engineering, and MLOps.
 
@@ -71,13 +71,11 @@ I work with a wide range of tools for data science, engineering, and MLOps.
 
 ---
 
-### 🏆 Featured Realizations
+## 🏆 Featured Realizations
 
 Here are some projects I have engineered, or contributed to, from ideation to production.
 
----
-
-#### [SmartWatch](https://github.com/datagora-erasme/smart_watch)
+### [SmartWatch](https://github.com/datagora-erasme/smart_watch)
 
 Automated data workflow using web scraping and LLM-based structured extraction. **Achieved 75% reduction in manual processing time.**
 
@@ -89,7 +87,7 @@ Automated data workflow using web scraping and LLM-based structured extraction. 
 
 ---
 
-#### [ForzaEmbed](https://github.com/berangerthomas/ForzaEmbed)
+### [ForzaEmbed](https://github.com/berangerthomas/ForzaEmbed)
 
 A RAG optimization tool. Grid-search for embedding hyperparameter tuning with heatmap visualization to optimize retrieval quality.
 
@@ -101,7 +99,7 @@ A RAG optimization tool. Grid-search for embedding hyperparameter tuning with he
 
 ---
 
-#### [StellaScript](https://github.com/berangerthomas/StellaScript)
+### [StellaScript](https://github.com/berangerthomas/StellaScript)
 
 Fully autonomous, local, and open-source audio pipeline (demixing, diarization, timestamping) ensuring **data sovereignty**.
 
@@ -113,7 +111,7 @@ Fully autonomous, local, and open-source audio pipeline (demixing, diarization, 
 
 ---
 
-#### [ASR.lab](https://github.com/berangerthomas/ASR.lab)
+### [ASR.lab](https://github.com/berangerthomas/ASR.lab)
 
 Benchmarking platform for ASR systems with multi-engine support (Whisper, Wav2Vec2, Vosk), audio degradation/enhancement pipelines, and interactive HTML reports.
 
@@ -125,7 +123,7 @@ Benchmarking platform for ASR systems with multi-engine support (Whisper, Wav2Ve
 
 ---
 
-#### [flac_toolkit](https://github.com/berangerthomas/flac_toolkit)
+### [flac_toolkit](https://github.com/berangerthomas/flac_toolkit)
 
 A collection of CLI tools for FLAC audio file manipulation, metadata tagging, and batch processing.
 
@@ -137,7 +135,7 @@ A collection of CLI tools for FLAC audio file manipulation, metadata tagging, an
 
 ---
 
-#### [SmartRescue](https://github.com/maxenceLIOGIER/SmartRescue)
+### [SmartRescue](https://github.com/maxenceLIOGIER/SmartRescue)
 
 *Contributor* - AI-powered emergency call center assistant that leverages real-time speech-to-text transcription combined with RAG to provide instant medical guidance.
 
@@ -149,7 +147,7 @@ A collection of CLI tools for FLAC audio file manipulation, metadata tagging, an
 
 ---
 
-#### [MIMOSA](https://github.com/AntoineORUEZABALA/RepLogRM2)
+### [MIMOSA](https://github.com/AntoineORUEZABALA/RepLogRM2)
 
 *Contributor* - R package that provides a from-scratch implementation of logistic regression with built-in preprocessing utilities, **handling mixed-type variables** seamlessly.
 
@@ -161,7 +159,7 @@ A collection of CLI tools for FLAC audio file manipulation, metadata tagging, an
 
 ---
 
-#### [ShadowLog](https://github.com/berangerthomas/ShadowLog)
+### [ShadowLog](https://github.com/berangerthomas/ShadowLog)
 
 *Contributor* - Log analysis platform featuring AI-powered clustering to help security analysts and developers detect hidden patterns and anomalies.
 
@@ -173,7 +171,7 @@ A collection of CLI tools for FLAC audio file manipulation, metadata tagging, an
 
 ---
 
-### 🎓 Education & Background
+## 🎓 Education & Background
 
 *   **M.S. in Data Science** (Distinction) - Lumière University Lyon 2 (2025)
 *   **M.S. in Biomedical Technology** (Distinction) - University of Technology of Compiègne (2003)
