@@ -12,13 +12,13 @@
     <em>Based in France 🇫🇷</em>
   </p>
 
-  <!-- Social Links -->
+  <!-- Social Links 
   <a href="https://www.linkedin.com/in/berangerthomas/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:beranger.thomas@proton.me">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  </a> -->
 
 </div>
 
@@ -59,9 +59,11 @@ I work with a wide range of tools for data science, engineering, and MLOps.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:64B5F6,100:2196F3&height=95&section=footer&text=Featured%20Realizations&fontSize=24&fontColor=ffffff&fontAlignY=75" width="100%"/>
 
-Here are some projects I have engineered, or contributed to, from ideation to production.
+Here are some projects I have engineered or contributed to, from ideation to production.
+<br>
+*(click to expand)*
 
-<details open>
+<details>
 <summary><b>ForzaEmbed</b> — Embedding benchmark tool for RAG pipelines</summary>
 <br>
 
