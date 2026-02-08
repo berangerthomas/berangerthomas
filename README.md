@@ -79,7 +79,7 @@ Here are some projects I have engineered, or contributed to, from ideation to pr
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/datagora-erasme/smart_watch) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://datagora-erasme.github.io/smart_watch/)
 
-Automated data workflow using web scraping and LLM-based structured extraction. **Achieved 75% reduction in manual processing time.**
+What if you could cut **up to 75% of your manual data processing time**? SmartWatch chains web scraping and LLM-based structured extraction into a single automated pipeline — from raw web pages to clean, structured data.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/smartwatch.png" width="95%" alt="SmartWatch">
@@ -91,7 +91,7 @@ Automated data workflow using web scraping and LLM-based structured extraction. 
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/ForzaEmbed) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://berangerthomas.github.io/ForzaEmbed/) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/forzaembeddemo)
 
-A RAG optimization tool. Grid-search for embedding hyperparameter tuning, with **heatmap visualization**.
+Is Google's embedding model actually the best fit for your RAG pipeline? ForzaEmbed lets you find out: a grid-search evaluation tool that benchmarks embedding configurations and displays results as an **interactive textual heatmap**.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/forzaembed.png" width="95%" alt="ForzaEmbed">
@@ -103,7 +103,7 @@ A RAG optimization tool. Grid-search for embedding hyperparameter tuning, with *
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/StellaScript) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://berangerthomas.github.io/StellaScript/)
 
-Fully autonomous, local, and open-source audio pipeline (demixing, diarization, timestamping) ensuring **data sovereignty**.
+Need to transcribe sensitive audio with **zero data leaving your machine**? StellaScript runs a full pipeline — source separation, speaker diarization, timestamped transcription — and **runs entirely on your hardware**.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/stellascript-thumb.jpg" width="95%" alt="StellaScript">
@@ -115,7 +115,7 @@ Fully autonomous, local, and open-source audio pipeline (demixing, diarization, 
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/ASR.lab) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/ASR.lab-demo)
 
-Benchmarking platform for ASR systems with multi-engine support (Whisper, Wav2Vec2, Vosk), audio degradation/enhancement pipelines, and interactive HTML reports.
+Which ASR engine actually performs best on *your* audio? ASR.lab benchmarks **multiple engines side-by-side** (Whisper, Wav2Vec2, NeMo, and more), applies real-world noise and enhancement conditions, and generates interactive HTML reports to make the choice obvious.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/asrlab.png" width="95%" alt="ASR.lab">
@@ -127,7 +127,7 @@ Benchmarking platform for ASR systems with multi-engine support (Whisper, Wav2Ve
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/flac_toolkit)
 
-A collection of CLI tools for FLAC audio file manipulation, metadata tagging, and batch processing.
+Managing thousands of FLAC files by hand? flac_toolkit handles **analysis, repair, ReplayGain tagging, and duplicate detection** from a single CLI — no GUI, no overhead, just fast bulk operations.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/flactoolkit.png" width="95%" alt="flac_toolkit">
@@ -139,7 +139,7 @@ A collection of CLI tools for FLAC audio file manipulation, metadata tagging, an
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maxenceLIOGIER/SmartRescue)
 
-*Contributor* - AI-powered emergency call center assistant that leverages real-time speech-to-text transcription combined with RAG to provide instant medical guidance.
+*Contributor* — SmartRescue is an AI-powered assistant for emergency call centers. It combines **live speech-to-text with RAG** to provide real-time medical guidance and support operators during critical calls.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/smart_rescue.png" width="50%" alt="SmartRescue">
@@ -151,7 +151,7 @@ A collection of CLI tools for FLAC audio file manipulation, metadata tagging, an
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AntoineORUEZABALA/RepLogRM2)
 
-*Contributor* - R package that provides a from-scratch implementation of logistic regression with built-in preprocessing utilities, **handling mixed-type variables seamlessly**.
+*Contributor* — Logistic regression on mixed-type data in R often requires manual encoding. MIMOSA is an R package that implements logistic regression from scratch with **built-in preprocessing for imputation, encoding, and normalization**.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/mimosa.png" width="95%" alt="MIMOSA">
@@ -163,7 +163,7 @@ A collection of CLI tools for FLAC audio file manipulation, metadata tagging, an
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/ShadowLog) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/shadowlog)
 
-*Contributor* - Log analysis platform featuring AI-powered clustering to help security analysts and developers detect hidden patterns and anomalies.
+*Contributor* — ShadowLog is a log analysis platform that uses **AI-powered clustering** to help security analysts and developers surface hidden patterns and anomalies in large log files.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/shadowlog.png" width="95%" alt="ShadowLog">
