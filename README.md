@@ -22,7 +22,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E3F2FD,100:BBDEFB&height=40&section=footer" width="100%"/>
 
 ## 🚀 About Me
 
@@ -32,7 +32,7 @@ I am an **AI engineer and data scientist** passionate about solving complex busi
 * I love solving complex challenges: from **web scraping pipelines** to **local LLM deployment**.
 * I value **mentorship & knowledge transfer**, creating educational materials to demystify AI.
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E3F2FD,100:BBDEFB&height=40&section=footer" width="100%"/>
 
 ## 🛠️ Technical Stack
 
@@ -69,13 +69,15 @@ I work with a wide range of tools for data science, engineering, and MLOps.
 
 **Other key skills:** LLMs (RAG, Embeddings), NLP (SpaCy), Vector DBs (ChromaDB, FAISS), Airflow, ELK Stack.
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E3F2FD,100:BBDEFB&height=40&section=footer" width="100%"/>
 
 ## 🏆 Featured Realizations
 
 Here are some projects I have engineered, or contributed to, from ideation to production.
 
-### SmartWatch
+<details open>
+<summary><b>SmartWatch</b> — Automated web scraping + LLM extraction pipeline</summary>
+<br>
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/datagora-erasme/smart_watch) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://datagora-erasme.github.io/smart_watch/)
 
@@ -85,9 +87,11 @@ What if you could cut **up to 75% of your manual data processing time**? SmartWa
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/smartwatch.png" width="95%" alt="SmartWatch">
 </p>
 
----
+</details>
 
-### ForzaEmbed
+<details>
+<summary><b>ForzaEmbed</b> — Embedding benchmark tool for RAG pipelines</summary>
+<br>
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/ForzaEmbed) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://berangerthomas.github.io/ForzaEmbed/) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/forzaembeddemo)
 
@@ -97,9 +101,11 @@ Is Google's embedding model actually the best fit for your RAG pipeline? ForzaEm
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/forzaembed.png" width="95%" alt="ForzaEmbed">
 </p>
 
----
+</details>
 
-### StellaScript
+<details>
+<summary><b>StellaScript</b> — Fully local audio transcription pipeline</summary>
+<br>
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/StellaScript) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://berangerthomas.github.io/StellaScript/)
 
@@ -109,9 +115,11 @@ Need to transcribe sensitive audio with **zero data leaving your machine**? Stel
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/stellascript-thumb.jpg" width="95%" alt="StellaScript">
 </p>
 
----
+</details>
 
-### ASR.lab
+<details>
+<summary><b>ASR.lab</b> — Multi-engine ASR benchmarking framework</summary>
+<br>
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/ASR.lab) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/ASR.lab-demo)
 
@@ -121,9 +129,11 @@ Which ASR engine actually performs best on *your* audio? ASR.lab benchmarks **mu
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/asrlab.png" width="95%" alt="ASR.lab">
 </p>
 
----
+</details>
 
-### flac_toolkit
+<details>
+<summary><b>flac_toolkit</b> — CLI for FLAC audio file management</summary>
+<br>
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/flac_toolkit)
 
@@ -133,43 +143,51 @@ Managing thousands of FLAC files by hand? flac_toolkit handles **analysis, repai
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/flactoolkit.png" width="95%" alt="flac_toolkit">
 </p>
 
----
+</details>
 
-### SmartRescue
+<details>
+<summary><b>SmartRescue</b> — AI assistant for emergency call centers <em>(Contributor)</em></summary>
+<br>
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maxenceLIOGIER/SmartRescue)
 
-*Contributor* — SmartRescue is an AI-powered assistant for emergency call centers. It combines **live speech-to-text with RAG** to provide real-time medical guidance and support operators during critical calls.
+SmartRescue is an AI-powered assistant for emergency call centers. It combines **live speech-to-text with RAG** to provide real-time medical guidance and support operators during critical calls.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/smart_rescue.png" width="50%" alt="SmartRescue">
 </p>
 
----
+</details>
 
-### MIMOSA
+<details>
+<summary><b>MIMOSA</b> — Logistic regression R package with built-in preprocessing <em>(Contributor)</em></summary>
+<br>
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AntoineORUEZABALA/RepLogRM2)
 
-*Contributor* — Logistic regression on mixed-type data in R often requires manual encoding. MIMOSA is an R package that implements logistic regression from scratch with **built-in preprocessing for imputation, encoding, and normalization**.
+Logistic regression on mixed-type data in R often requires manual encoding. MIMOSA is an R package that implements logistic regression from scratch with **built-in preprocessing for imputation, encoding, and normalization**.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/mimosa.png" width="95%" alt="MIMOSA">
 </p>
 
----
+</details>
 
-### ShadowLog
+<details>
+<summary><b>ShadowLog</b> — AI-powered log analysis platform <em>(Contributor)</em></summary>
+<br>
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/ShadowLog) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/shadowlog)
 
-*Contributor* — ShadowLog is a log analysis platform that uses **AI-powered clustering** to help security analysts and developers surface hidden patterns and anomalies in large log files.
+ShadowLog is a log analysis platform that uses **AI-powered clustering** to help security analysts and developers surface hidden patterns and anomalies in large log files.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/shadowlog.png" width="95%" alt="ShadowLog">
 </p>
 
----
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E3F2FD,100:BBDEFB&height=40&section=footer" width="100%"/>
 
 ## 🎓 Education & Background
 
@@ -177,7 +195,7 @@ Managing thousands of FLAC files by hand? flac_toolkit handles **analysis, repai
 *   **M.S. in Biomedical Technology** (Distinction) - University of Technology of Compiègne (2003)
 *   **M.S. in Physics** - Grenoble Alpes University (2002)
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E3F2FD,100:BBDEFB&height=40&section=footer" width="100%"/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=berangerthomas&label=Profile+Views&color=2196F3&style=flat" alt="Profile Views" />
