@@ -75,7 +75,7 @@ I work with a wide range of tools for data science, engineering, and MLOps.
 
 Here are some projects I have engineered, or contributed to, from ideation to production.
 
-## SmartWatch
+### SmartWatch
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/datagora-erasme/smart_watch) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://datagora-erasme.github.io/smart_watch/)
 
@@ -89,7 +89,7 @@ Automated data workflow using web scraping and LLM-based structured extraction. 
 
 ---
 
-## [ForzaEmbed](https://github.com/berangerthomas/ForzaEmbed)
+### ForzaEmbed
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/ForzaEmbed) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://berangerthomas.github.io/ForzaEmbed/) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/forzaembeddemo)
 
@@ -103,7 +103,7 @@ A RAG optimization tool. Grid-search for embedding hyperparameter tuning, with *
 
 ---
 
-## [StellaScript](https://github.com/berangerthomas/StellaScript)
+### StellaScript
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/StellaScript) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://berangerthomas.github.io/StellaScript/)
 
@@ -117,7 +117,7 @@ Fully autonomous, local, and open-source audio pipeline (demixing, diarization, 
 
 ---
 
-## [ASR.lab](https://github.com/berangerthomas/ASR.lab)
+### ASR.lab
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/ASR.lab) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/ASR.lab-demo)
 
@@ -131,9 +131,10 @@ Benchmarking platform for ASR systems with multi-engine support (Whisper, Wav2Ve
 
 ---
 
-## [flac_toolkit](https://github.com/berangerthomas/flac_toolkit)
+### flac_toolkit
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/flac_toolkit)
+
 A collection of CLI tools for FLAC audio file manipulation, metadata tagging, and batch processing.
 
 <p align="center">
@@ -144,7 +145,7 @@ A collection of CLI tools for FLAC audio file manipulation, metadata tagging, an
 
 ---
 
-## [SmartRescue](https://github.com/maxenceLIOGIER/SmartRescue)
+### SmartRescue
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maxenceLIOGIER/SmartRescue)
 
@@ -158,7 +159,7 @@ A collection of CLI tools for FLAC audio file manipulation, metadata tagging, an
 
 ---
 
-## [MIMOSA](https://github.com/AntoineORUEZABALA/RepLogRM2)
+### MIMOSA
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AntoineORUEZABALA/RepLogRM2)
 
@@ -172,7 +173,7 @@ A collection of CLI tools for FLAC audio file manipulation, metadata tagging, an
 
 ---
 
-## [ShadowLog](https://github.com/berangerthomas/ShadowLog)
+### ShadowLog
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/ShadowLog) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/shadowlog)
 
