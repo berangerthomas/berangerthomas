@@ -35,32 +35,9 @@ I am an **AI engineer and data scientist** passionate about solving complex busi
 I work with a wide range of tools for data science, engineering, and MLOps.
 
 <div align="center">
-  <!-- Languages -->
-  <a href="#"><img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=r" alt="R" title="R" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=regex" alt="Regex" title="Regex" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=py,r,bash,regex,pytorch,sklearn,selenium,docker,kubernetes" alt="Tech Stack" /></a>
   <br>
-  <!-- AI & Data -->
-  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" title="PyTorch" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" title="Scikit-learn" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" title="Selenium" /></a>
-  <br>
-  <!-- Infra & MLOps -->
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="Kubernetes" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI" /></a>
-  <br>
-  <!-- Databases & Viz -->
-  <a href="#"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" /></a>
-  <br>
-  <!-- Tools -->
-  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux,github,fastapi,postgres,mongodb,redis,sqlite,vscode" alt="Tech Stack" /></a>
 </div>
 
 **Other key skills:** LLMs (RAG, Embeddings), NLP (SpaCy), Vector DBs (ChromaDB, FAISS), Airflow, ELK Stack.
