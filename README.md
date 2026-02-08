@@ -75,7 +75,7 @@ I work with a wide range of tools for data science, engineering, and MLOps.
 
 Here are some projects I have engineered, or contributed to, from ideation to production.
 
-### SmartWatch
+### SmartWatch ![GenAI](https://img.shields.io/badge/GenAI-LLM-blue) ![Python](https://img.shields.io/badge/Python-Scraping-yellow)
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/datagora-erasme/smart_watch) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://datagora-erasme.github.io/smart_watch/)
 
@@ -85,11 +85,9 @@ Automated data workflow using web scraping and LLM-based structured extraction. 
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/smartwatch.png" width="95%" alt="SmartWatch">
 </p>
 
-![GenAI](https://img.shields.io/badge/GenAI-LLM-blue) ![Python](https://img.shields.io/badge/Python-Scraping-yellow)
-
 ---
 
-### ForzaEmbed
+### ForzaEmbed ![RAG](https://img.shields.io/badge/RAG-Optimization-orange) ![Viz](https://img.shields.io/badge/Data-Viz-purple)
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/ForzaEmbed) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://berangerthomas.github.io/ForzaEmbed/) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/forzaembeddemo)
 
@@ -99,11 +97,9 @@ A RAG optimization tool. Grid-search for embedding hyperparameter tuning, with *
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/forzaembed.png" width="95%" alt="ForzaEmbed">
 </p>
 
-![RAG](https://img.shields.io/badge/RAG-Optimization-orange) ![Viz](https://img.shields.io/badge/Data-Viz-purple)
-
 ---
 
-### StellaScript
+### StellaScript ![PyTorch](https://img.shields.io/badge/PyTorch-Audio-EE4C2C) ![Privacy](https://img.shields.io/badge/Privacy-Local-green)
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/StellaScript) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://berangerthomas.github.io/StellaScript/)
 
@@ -113,11 +109,9 @@ Fully autonomous, local, and open-source audio pipeline (demixing, diarization, 
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/stellascript-thumb.jpg" width="95%" alt="StellaScript">
 </p>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-Audio-EE4C2C) ![Privacy](https://img.shields.io/badge/Privacy-Local-green)
-
 ---
 
-### ASR.lab
+### ASR.lab ![PyTorch](https://img.shields.io/badge/PyTorch-Audio-EE4C2C) ![Python](https://img.shields.io/badge/Python-Benchmark-3776AB)
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/ASR.lab) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/ASR.lab-demo)
 
@@ -127,11 +121,9 @@ Benchmarking platform for ASR systems with multi-engine support (Whisper, Wav2Ve
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/asrlab.png" width="95%" alt="ASR.lab">
 </p>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-Audio-EE4C2C) ![Python](https://img.shields.io/badge/Python-Benchmark-3776AB)
-
 ---
 
-### flac_toolkit
+### flac_toolkit ![Bash](https://img.shields.io/badge/Shell-Audio-4EAA25)
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/flac_toolkit)
 
@@ -141,11 +133,9 @@ A collection of CLI tools for FLAC audio file manipulation, metadata tagging, an
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/flactoolkit.png" width="95%" alt="flac_toolkit">
 </p>
 
-![Bash](https://img.shields.io/badge/Shell-Audio-4EAA25)
-
 ---
 
-### SmartRescue
+### SmartRescue ![Python](https://img.shields.io/badge/Python-AI-3776AB)
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maxenceLIOGIER/SmartRescue)
 
@@ -155,11 +145,9 @@ A collection of CLI tools for FLAC audio file manipulation, metadata tagging, an
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/smart_rescue.png" width="50%" alt="SmartRescue">
 </p>
 
-![Python](https://img.shields.io/badge/Python-AI-3776AB)
-
 ---
 
-### MIMOSA
+### MIMOSA ![Data Science](https://img.shields.io/badge/Data-Research-orange)
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AntoineORUEZABALA/RepLogRM2)
 
@@ -169,11 +157,9 @@ A collection of CLI tools for FLAC audio file manipulation, metadata tagging, an
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/mimosa.png" width="95%" alt="MIMOSA">
 </p>
 
-![Data Science](https://img.shields.io/badge/Data-Research-orange)
-
 ---
 
-### ShadowLog
+### ShadowLog ![Python](https://img.shields.io/badge/Python-Automation-3776AB)
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/ShadowLog) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/shadowlog)
 
@@ -182,8 +168,6 @@ A collection of CLI tools for FLAC audio file manipulation, metadata tagging, an
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/shadowlog.png" width="95%" alt="ShadowLog">
 </p>
-
-![Python](https://img.shields.io/badge/Python-Automation-3776AB)
 
 ---
 
