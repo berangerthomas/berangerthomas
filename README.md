@@ -55,7 +55,7 @@ I work with a wide range of tools for data science, engineering, and MLOps.
   <a href="#"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" /></a>
 </div>
 
-**Other key skills:** LLMs (RAG, Embeddings), NLP (SpaCy), Vector DBs (ChromaDB, FAISS), Airflow, ELK Stack.
+**Other key skills:** LLMs (RAG, Embeddings), NLP (SpaCy, NLTK), Vector DBs (ChromaDB, FAISS), Airflow, ELK Stack.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:64B5F6,100:2196F3&height=95&section=footer&text=Featured%20Realizations&fontSize=24&fontColor=ffffff&fontAlignY=75" width="100%"/>
 
