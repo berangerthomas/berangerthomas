@@ -97,6 +97,8 @@ A RAG optimization tool. Grid-search for embedding hyperparameter tuning with he
 
 ![RAG](https://img.shields.io/badge/RAG-Optimization-orange) ![Viz](https://img.shields.io/badge/Data-Viz-purple)
 
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/ForzaEmbed) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://berangerthomas.github.io/ForzaEmbed/) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/forzaembeddemo)
+
 ---
 
 ### [StellaScript](https://github.com/berangerthomas/StellaScript)
