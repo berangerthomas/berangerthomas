@@ -22,9 +22,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E3F2FD,100:BBDEFB&height=40&section=footer" width="100%"/>
-
-## 🚀 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:64B5F6&height=80&section=header&text=About%20Me&fontSize=24&fontColor=ffffff&fontAlignY=45" width="100%"/>
 
 I am an **AI engineer and data scientist** passionate about solving complex business challenges through the **design and industrialization of ML/AI solutions**. I combine technical expertise in AI/machine learning, MLOps and software developement with a rigorous approach to bridge the gap between experimental innovation and reliable production systems.
 
@@ -32,9 +30,7 @@ I am an **AI engineer and data scientist** passionate about solving complex busi
 * I love solving complex challenges: from **web scraping pipelines** to **local LLM deployment**.
 * I value **mentorship & knowledge transfer**, creating educational materials to demystify AI.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E3F2FD,100:BBDEFB&height=40&section=footer" width="100%"/>
-
-## 🛠️ Technical Stack
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:64B5F6&height=80&section=header&text=Technical%20Stack&fontSize=24&fontColor=ffffff&fontAlignY=45" width="100%"/>
 
 I work with a wide range of tools for data science, engineering, and MLOps.
 
@@ -69,9 +65,7 @@ I work with a wide range of tools for data science, engineering, and MLOps.
 
 **Other key skills:** LLMs (RAG, Embeddings), NLP (SpaCy), Vector DBs (ChromaDB, FAISS), Airflow, ELK Stack.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E3F2FD,100:BBDEFB&height=40&section=footer" width="100%"/>
-
-## 🏆 Featured Realizations
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:64B5F6&height=80&section=header&text=Featured%20Realizations&fontSize=24&fontColor=ffffff&fontAlignY=45" width="100%"/>
 
 Here are some projects I have engineered, or contributed to, from ideation to production.
 
@@ -187,15 +181,13 @@ ShadowLog is a log analysis platform that uses **AI-powered clustering** to help
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E3F2FD,100:BBDEFB&height=40&section=footer" width="100%"/>
-
-## 🎓 Education & Background
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:64B5F6&height=80&section=header&text=Education%20%26%20Background&fontSize=24&fontColor=ffffff&fontAlignY=45" width="100%"/>
 
 *   **M.S. in Data Science** (Distinction) - Lumière University Lyon 2 (2025)
 *   **M.S. in Biomedical Technology** (Distinction) - University of Technology of Compiègne (2003)
 *   **M.S. in Physics** - Grenoble Alpes University (2002)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E3F2FD,100:BBDEFB&height=40&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:64B5F6&height=40&section=footer" width="100%"/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=berangerthomas&label=Profile+Views&color=2196F3&style=flat" alt="Profile Views" />
