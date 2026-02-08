@@ -69,6 +69,20 @@ I work with a wide range of tools for data science, engineering, and MLOps.
 
 Here are some projects I have engineered, or contributed to, from ideation to production.
 
+<details open>
+<summary><b>ForzaEmbed</b> — Embedding benchmark tool for RAG pipelines</summary>
+<br>
+
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/ForzaEmbed) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://berangerthomas.github.io/ForzaEmbed/) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/forzaembeddemo)
+
+Is Google's embedding model actually the best fit for your RAG pipeline? ForzaEmbed lets you find out: a grid-search evaluation tool that benchmarks embedding configurations and displays results as an **interactive textual heatmap**.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/forzaembed.png" width="95%" alt="ForzaEmbed">
+</p>
+
+</details>
+
 <details>
 <summary><b>SmartWatch</b> — Automated web scraping + LLM extraction pipeline</summary>
 <br>
@@ -79,20 +93,6 @@ What if you could cut **up to 75% of your manual data processing time**? SmartWa
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/smartwatch.png" width="95%" alt="SmartWatch">
-</p>
-
-</details>
-
-<details>
-<summary><b>ForzaEmbed</b> — Embedding benchmark tool for RAG pipelines</summary>
-<br>
-
-[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/ForzaEmbed) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://berangerthomas.github.io/ForzaEmbed/) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/forzaembeddemo)
-
-Is Google's embedding model actually the best fit for your RAG pipeline? ForzaEmbed lets you find out: a grid-search evaluation tool that benchmarks embedding configurations and displays results as an **interactive textual heatmap**.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/forzaembed.png" width="95%" alt="ForzaEmbed">
 </p>
 
 </details>
