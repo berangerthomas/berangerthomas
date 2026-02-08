@@ -75,7 +75,9 @@ I work with a wide range of tools for data science, engineering, and MLOps.
 
 Here are some projects I have engineered, or contributed to, from ideation to production.
 
-### [SmartWatch](https://github.com/datagora-erasme/smart_watch)
+## SmartWatch
+
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/datagora-erasme/smart_watch) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://datagora-erasme.github.io/smart_watch/)
 
 Automated data workflow using web scraping and LLM-based structured extraction. **Achieved 75% reduction in manual processing time.**
 
@@ -87,9 +89,11 @@ Automated data workflow using web scraping and LLM-based structured extraction. 
 
 ---
 
-### [ForzaEmbed](https://github.com/berangerthomas/ForzaEmbed)
+## [ForzaEmbed](https://github.com/berangerthomas/ForzaEmbed)
 
-A RAG optimization tool. Grid-search for embedding hyperparameter tuning with heatmap visualization to optimize retrieval quality.
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/ForzaEmbed) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://berangerthomas.github.io/ForzaEmbed/) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/forzaembeddemo)
+
+A RAG optimization tool. Grid-search for embedding hyperparameter tuning, with **heatmap visualization**.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/forzaembed.png" width="95%" alt="ForzaEmbed">
@@ -97,11 +101,11 @@ A RAG optimization tool. Grid-search for embedding hyperparameter tuning with he
 
 ![RAG](https://img.shields.io/badge/RAG-Optimization-orange) ![Viz](https://img.shields.io/badge/Data-Viz-purple)
 
-[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/ForzaEmbed) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://berangerthomas.github.io/ForzaEmbed/) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/forzaembeddemo)
-
 ---
 
-### [StellaScript](https://github.com/berangerthomas/StellaScript)
+## [StellaScript](https://github.com/berangerthomas/StellaScript)
+
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/StellaScript) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://berangerthomas.github.io/StellaScript/)
 
 Fully autonomous, local, and open-source audio pipeline (demixing, diarization, timestamping) ensuring **data sovereignty**.
 
@@ -113,7 +117,9 @@ Fully autonomous, local, and open-source audio pipeline (demixing, diarization, 
 
 ---
 
-### [ASR.lab](https://github.com/berangerthomas/ASR.lab)
+## [ASR.lab](https://github.com/berangerthomas/ASR.lab)
+
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/ASR.lab) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/ASR.lab-demo)
 
 Benchmarking platform for ASR systems with multi-engine support (Whisper, Wav2Vec2, Vosk), audio degradation/enhancement pipelines, and interactive HTML reports.
 
@@ -125,8 +131,9 @@ Benchmarking platform for ASR systems with multi-engine support (Whisper, Wav2Ve
 
 ---
 
-### [flac_toolkit](https://github.com/berangerthomas/flac_toolkit)
+## [flac_toolkit](https://github.com/berangerthomas/flac_toolkit)
 
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/flac_toolkit)
 A collection of CLI tools for FLAC audio file manipulation, metadata tagging, and batch processing.
 
 <p align="center">
@@ -137,7 +144,9 @@ A collection of CLI tools for FLAC audio file manipulation, metadata tagging, an
 
 ---
 
-### [SmartRescue](https://github.com/maxenceLIOGIER/SmartRescue)
+## [SmartRescue](https://github.com/maxenceLIOGIER/SmartRescue)
+
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maxenceLIOGIER/SmartRescue)
 
 *Contributor* - AI-powered emergency call center assistant that leverages real-time speech-to-text transcription combined with RAG to provide instant medical guidance.
 
@@ -149,9 +158,11 @@ A collection of CLI tools for FLAC audio file manipulation, metadata tagging, an
 
 ---
 
-### [MIMOSA](https://github.com/AntoineORUEZABALA/RepLogRM2)
+## [MIMOSA](https://github.com/AntoineORUEZABALA/RepLogRM2)
 
-*Contributor* - R package that provides a from-scratch implementation of logistic regression with built-in preprocessing utilities, **handling mixed-type variables** seamlessly.
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AntoineORUEZABALA/RepLogRM2)
+
+*Contributor* - R package that provides a from-scratch implementation of logistic regression with built-in preprocessing utilities, **handling mixed-type variables seamlessly**.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/mimosa.png" width="95%" alt="MIMOSA">
@@ -161,7 +172,9 @@ A collection of CLI tools for FLAC audio file manipulation, metadata tagging, an
 
 ---
 
-### [ShadowLog](https://github.com/berangerthomas/ShadowLog)
+## [ShadowLog](https://github.com/berangerthomas/ShadowLog)
+
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/ShadowLog) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/shadowlog)
 
 *Contributor* - Log analysis platform featuring AI-powered clustering to help security analysts and developers detect hidden patterns and anomalies.
 
