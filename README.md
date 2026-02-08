@@ -108,7 +108,7 @@ Which ASR engine actually performs best on *your* audio? ASR.lab benchmarks **mu
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/flac_toolkit)
 
-Managing thousands of FLAC files by hand? flac_toolkit handles **analysis, repair, ReplayGain tagging, and duplicate detection** from a single CLI — no GUI, no overhead, just fast bulk operations.
+Managing thousands of FLAC files by hand? flac_toolkit handles **analysis, repair, ReplayGain tagging, and **duplicate detection based on audio content** from a single CLI — no GUI, no overhead, just fast bulk operations.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/flactoolkit.png" width="95%" alt="flac_toolkit">
