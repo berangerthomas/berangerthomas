@@ -120,16 +120,12 @@ Which ASR engine actually performs best on *your* audio? ASR.lab benchmarks **mu
 </details>
 
 <details>
-<summary><b>flac_toolkit</b> — CLI for FLAC audio file management</summary>
+<summary><b>PRISM</b> — Pattern Recognition & Intelligent Similarity Matcher</summary>
 <br>
 
-[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/flac_toolkit)
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/PRISM)
 
-Managing thousands of FLAC files by hand? flac_toolkit handles analysis, repair, ReplayGain tagging, and **duplicate detection based on audio content** from a single CLI — no GUI, no overhead, just fast bulk operations.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/flactoolkit.png" width="95%" alt="flac_toolkit">
-</p>
+PRISM is a composable Python library for comparing strings using multiple similarity methods, from exact match to semantic embeddings.
 
 </details>
 
@@ -171,6 +167,20 @@ ShadowLog is a log analysis platform that uses **AI-powered clustering** to help
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/shadowlog.png" width="95%" alt="ShadowLog">
+</p>
+
+</details>
+
+<details>
+<summary><b>flac_toolkit</b> — CLI for FLAC audio file management</summary>
+<br>
+
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/flac_toolkit)
+
+Managing thousands of FLAC files by hand? flac_toolkit handles analysis, repair, ReplayGain tagging, and **duplicate detection based on audio content** from a single CLI — no GUI, no overhead, just fast bulk operations.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/flactoolkit.png" width="95%" alt="flac_toolkit">
 </p>
 
 </details>
