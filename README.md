@@ -64,6 +64,20 @@ Here are some projects I have engineered or contributed to, from ideation to pro
 *(click to expand)*
 
 <details>
+<summary><b>School of statistics</b> — Interactively explore statistical and machine learning concepts</summary>
+<br>
+
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/SchoolOfStatistics) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/schoolofstatistics)
+
+Interactive visualizations to intuitively grasp statistical and machine learning concepts. Tweak parameters in real time and **watch the results adapt live**.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/sos.jpg" width="95%" alt="SchoolOfStatistics">
+</p>
+
+</details>
+
+<details>
 <summary><b>ForzaEmbed</b> — Embedding benchmark tool for RAG pipelines</summary>
 <br>
 
@@ -189,7 +203,7 @@ Managing thousands of FLAC files by hand? flac_toolkit handles analysis, repair,
 
 *   **M.S. in Data Science** (Distinction) - Lumière University Lyon 2 (2025)
 *   **M.S. in Biomedical Technology** (Distinction) - University of Technology of Compiègne (2003)
-*   **M.S. in Physics** - Grenoble Alpes University (2002)
+*   **M.S. in Applied Physics** - Grenoble Alpes University (2002)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=berangerthomas&label=Profile+Views&color=2196F3&style=flat" alt="Profile Views" />
