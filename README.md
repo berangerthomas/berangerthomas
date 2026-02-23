@@ -190,6 +190,24 @@ Log analysis platform using **AI-powered clustering and statistical anomaly dete
 </details>
 
 <details>
+<summary><b>Friands</b> — Restaurant analytics and recommendation engine <em>(Contributor)</em></summary>
+<br>
+
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/Friands)
+
+Restaurant discovery and analytics app combining **NLP-powered sentiment analysis** with geographic visualization. Features automated review summarization, multi-criteria filtering, and interactive dashboards — leveraging Mistral AI and fine-tuned BERT for insights.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/friands.png" width="95%" alt="Friands">
+</p>
+<br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/friands.gif" width="95%" alt="Friands demo">
+</p>
+
+</details>
+
+<details>
 <summary><b>flac_toolkit</b> — CLI for FLAC audio file management</summary>
 <br>
 
