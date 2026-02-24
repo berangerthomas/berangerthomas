@@ -225,6 +225,20 @@ CLI tool for bulk FLAC file management: integrity analysis, repair, ReplayGain t
 
 </details>
 
+<details>
+<summary><b>ORBIT</b> — Organized Repositories Based on Images Timing</summary>
+<br>
+
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/ORBIT)
+
+Organize photos into a structured directory tree based on their EXIF metadata.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/orbit.jpg" width="80%" alt="ORBIT">
+</p>
+
+</details>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:64B5F6,100:2196F3&height=95&section=footer&text=Education%20and%20Background&fontSize=24&fontColor=ffffff&fontAlignY=75" width="100%"/>
 
 *   **M.S. in Data Science** (Distinction) - Lumière University Lyon 2 (2025)
