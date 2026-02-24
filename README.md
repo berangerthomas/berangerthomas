@@ -198,11 +198,11 @@ Log analysis platform using **AI-powered clustering and statistical anomaly dete
 Restaurant discovery and analytics app combining **NLP-powered sentiment analysis** with geographic visualization. Features automated review summarization, multi-criteria filtering, and interactive dashboards — leveraging Mistral AI and fine-tuned BERT for insights.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/friands.png" width="95%" alt="Friands">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/friands.gif" width="95%" alt="Friands demo">
 </p>
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/friands.gif" width="95%" alt="Friands demo">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/friands.png" width="95%" alt="Friands">
 </p>
 
 </details>
