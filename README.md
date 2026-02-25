@@ -65,7 +65,7 @@ Here are some projects I have engineered or contributed to, from ideation to pro
 
 ### 🎙️ Speech & Audio Processing
 <details>
-<summary><b>StellaScript</b> ![WIP](https://img.shields.io/badge/status-WIP-orange?style=flat-square) — Fully local audio transcription pipeline</summary>
+<summary><b>StellaScript</b> <img src="https://img.shields.io/badge/status-WIP-orange?style=flat-square" alt="WIP"> — Fully local audio transcription pipeline</summary>
 <br>
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/StellaScript) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://berangerthomas.github.io/StellaScript/)
@@ -130,7 +130,7 @@ CLI tool for bulk FLAC file management: integrity analysis, repair, ReplayGain t
 
 ### 🧠 NLP & RAG
 <details>
-<summary><b>ForzaEmbed</b> ![WIP](https://img.shields.io/badge/status-WIP-orange?style=flat-square) — Embedding benchmark tool for RAG pipelines</summary>
+<summary><b>ForzaEmbed</b> <img src="https://img.shields.io/badge/status-WIP-orange?style=flat-square" alt="WIP"> — Embedding benchmark tool for RAG pipelines</summary>
 <br>
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/ForzaEmbed) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://berangerthomas.github.io/ForzaEmbed/) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/forzaembeddemo)
@@ -158,7 +158,7 @@ Automated pipeline combining web scraping with LLM-based structured extraction. 
 </details>
 
 <details>
-<summary><b>PRISM</b> ![WIP](https://img.shields.io/badge/status-WIP-orange?style=flat-square) — Pattern Recognition & Intelligent Similarity Matcher</summary>
+<summary><b>PRISM</b> <img src="https://img.shields.io/badge/status-WIP-orange?style=flat-square" alt="WIP"> — Pattern Recognition & Intelligent Similarity Matcher</summary>
 <br>
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/PRISM)
