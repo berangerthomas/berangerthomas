@@ -63,50 +63,9 @@ Here are some projects I have engineered or contributed to, from ideation to pro
 <br>
 *(click to expand)*
 
+### 🎙️ Speech & Audio Processing
 <details>
-<summary><b>School of statistics</b> — Interactively explore statistical and machine learning concepts</summary>
-<br>
-
-[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/SchoolOfStatistics) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/schoolofstatistics)
-
-Interactive visualizations to intuitively grasp statistical and machine learning concepts. **Real-time parameter** tuning with live updates.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/sos.jpg" width="95%" alt="SchoolOfStatistics">
-</p>
-
-</details>
-
-<details>
-<summary><b>ForzaEmbed</b> — Embedding benchmark tool for RAG pipelines</summary>
-<br>
-
-[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/ForzaEmbed) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://berangerthomas.github.io/ForzaEmbed/) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/forzaembeddemo)
-
-Grid-search evaluation tool for RAG embedding selection. Benchmarks multiple embedding models on custom corpora, evaluating retrieval quality via metrics and **interactive textual heatmap**.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/forzaembed.jpg" width="95%" alt="ForzaEmbed">
-</p>
-
-</details>
-
-<details>
-<summary><b>SmartWatch</b> — Automated web scraping + LLM extraction pipeline</summary>
-<br>
-
-[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/datagora-erasme/smart_watch) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://datagora-erasme.github.io/smart_watch/)
-
-Automated pipeline combining web scraping with LLM-based structured extraction. **Reduces manual data processing by up to 75%** — transforms unstructured HTML into validated JSON output.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/smartwatch.png" width="95%" alt="SmartWatch">
-</p>
-
-</details>
-
-<details>
-<summary><b>StellaScript</b> — Fully local audio transcription pipeline</summary>
+<summary><b>StellaScript</b> ![WIP](https://img.shields.io/badge/status-WIP-orange?style=flat-square) — Fully local audio transcription pipeline</summary>
 <br>
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/StellaScript) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://berangerthomas.github.io/StellaScript/)
@@ -138,16 +97,6 @@ Multi-engine ASR benchmarking framework with **configurable noise, enhancement a
 </details>
 
 <details>
-<summary><b>PRISM</b> — Pattern Recognition & Intelligent Similarity Matcher</summary>
-<br>
-
-[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/PRISM)
-
-Composable Python library for string similarity matching. Supports **edit distance** (Levenshtein, Damerau-Levenshtein, Hamming), **sequence similarity** (Jaro-Winkler), **token-based** (TF-IDF), **phonetic** (Soundex, Metaphone) and **semantic similarity** (Jina Embeddings) with unified API.
-
-</details>
-
-<details>
 <summary><b>SmartRescue</b> — AI assistant for emergency call centers <em>(Contributor)</em></summary>
 <br>
 
@@ -157,6 +106,96 @@ SmartRescue is an AI-powered assistant for emergency call centers. It combines *
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/smart_rescue.png" width="50%" alt="SmartRescue">
+</p>
+
+</details>
+
+<details>
+<summary><b>flac_toolkit</b> — CLI for FLAC audio file management</summary>
+<br>
+
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/flac_toolkit)
+
+CLI tool for bulk FLAC file management: integrity analysis, repair, ReplayGain tagging, and **content-based duplicate detection via audio fingerprinting**. Designed for large-scale library maintenance.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/flactoolkit_1.png" width="95%" alt="flac_toolkit">
+</p>
+<br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/flactoolkit_2.jpg" width="95%" alt="flac_toolkit">
+</p>
+
+</details>
+
+### 🧠 NLP & RAG
+<details>
+<summary><b>ForzaEmbed</b> ![WIP](https://img.shields.io/badge/status-WIP-orange?style=flat-square) — Embedding benchmark tool for RAG pipelines</summary>
+<br>
+
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/ForzaEmbed) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://berangerthomas.github.io/ForzaEmbed/) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/forzaembeddemo)
+
+Grid-search evaluation tool for RAG embedding selection. Benchmarks multiple embedding models on custom corpora, evaluating retrieval quality via metrics and **interactive textual heatmap**.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/forzaembed.jpg" width="95%" alt="ForzaEmbed">
+</p>
+
+</details>
+
+<details>
+<summary><b>SmartWatch</b> — Automated web scraping + LLM extraction pipeline</summary>
+<br>
+
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/datagora-erasme/smart_watch) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://datagora-erasme.github.io/smart_watch/)
+
+Automated pipeline combining web scraping with LLM-based structured extraction. **Reduces manual data processing by up to 75%** — transforms unstructured HTML into validated JSON output.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/smartwatch.png" width="95%" alt="SmartWatch">
+</p>
+
+</details>
+
+<details>
+<summary><b>PRISM</b> ![WIP](https://img.shields.io/badge/status-WIP-orange?style=flat-square) — Pattern Recognition & Intelligent Similarity Matcher</summary>
+<br>
+
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/PRISM)
+
+Composable Python library for string similarity matching. Supports **edit distance** (Levenshtein, Damerau-Levenshtein, Hamming), **sequence similarity** (Jaro-Winkler), **token-based** (TF-IDF), **phonetic** (Soundex, Metaphone) and **semantic similarity** (Jina Embeddings) with unified API.
+
+</details>
+
+<details>
+<summary><b>Friands</b> — Restaurant analytics and recommendation engine <em>(Contributor)</em></summary>
+<br>
+
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/Friands)
+
+Restaurant discovery and analytics app combining **NLP-powered sentiment analysis** with geographic visualization. Features automated review summarization, multi-criteria filtering, and interactive dashboards — leveraging Mistral AI and fine-tuned BERT for insights.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/friands.gif" width="95%" alt="Friands demo">
+</p>
+<br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/friands.png" width="95%" alt="Friands">
+</p>
+
+</details>
+
+### 📊 Statistics & Machine Learning
+<details>
+<summary><b>School of statistics</b> — Interactively explore statistical and machine learning concepts</summary>
+<br>
+
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/SchoolOfStatistics) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/schoolofstatistics)
+
+Interactive visualizations to intuitively grasp statistical and machine learning concepts. **Real-time parameter** tuning with live updates.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/sos.jpg" width="95%" alt="SchoolOfStatistics">
 </p>
 
 </details>
@@ -189,42 +228,7 @@ Log analysis platform using **AI-powered clustering and statistical anomaly dete
 
 </details>
 
-<details>
-<summary><b>Friands</b> — Restaurant analytics and recommendation engine <em>(Contributor)</em></summary>
-<br>
-
-[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/Friands)
-
-Restaurant discovery and analytics app combining **NLP-powered sentiment analysis** with geographic visualization. Features automated review summarization, multi-criteria filtering, and interactive dashboards — leveraging Mistral AI and fine-tuned BERT for insights.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/friands.gif" width="95%" alt="Friands demo">
-</p>
-<br>
-<p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/friands.png" width="95%" alt="Friands">
-</p>
-
-</details>
-
-<details>
-<summary><b>flac_toolkit</b> — CLI for FLAC audio file management</summary>
-<br>
-
-[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/flac_toolkit)
-
-CLI tool for bulk FLAC file management: integrity analysis, repair, ReplayGain tagging, and **content-based duplicate detection via audio fingerprinting**. Designed for large-scale library maintenance.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/flactoolkit_1.png" width="95%" alt="flac_toolkit">
-</p>
-<br>
-<p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/flactoolkit_2.jpg" width="95%" alt="flac_toolkit">
-</p>
-
-</details>
-
+### 🛠️ Utilities
 <details>
 <summary><b>ORBIT</b> — Organized Repositories Based on Images Timing</summary>
 <br>
