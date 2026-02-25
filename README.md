@@ -63,7 +63,7 @@ Here are some projects I have engineered or contributed to, from ideation to pro
 <br>
 *(click to expand)*
 
-### Speech & Audio Processing
+#### Speech & Audio Processing
 
 <details>
 <summary><b>ASR.lab</b> — Multi-engine ASR benchmarking framework</summary>
@@ -97,7 +97,7 @@ Fully local audio transcription pipeline for sensitive data. Source separation, 
 
 </details>
 
-### NLP & RAG
+#### NLP & RAG
 
 <details>
 <summary><b>ForzaEmbed</b> — Embedding benchmark tool for RAG pipelines</summary>
@@ -169,7 +169,7 @@ SmartRescue is an AI-powered assistant for emergency call centers. It combines *
 
 </details>
 
-### Statistics & Machine Learning
+#### Statistics & Machine Learning
 
 <details>
 <summary><b>School of statistics</b> — Interactively explore statistical and machine learning concepts</summary>
@@ -213,7 +213,7 @@ Log analysis platform using **AI-powered clustering and statistical anomaly dete
 
 </details>
 
-### Utilities
+#### Utilities
 
 <details>
 <summary><b>flac_toolkit</b> — CLI for FLAC audio file management</summary>
