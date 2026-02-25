@@ -62,6 +62,7 @@ I work with a wide range of tools for data science, engineering, and MLOps.
 Here are some projects I have engineered or contributed to, from ideation to production.
 <br>
 *(click to expand)*
+<br>
 
 #### Speech & Audio Processing
 
@@ -96,6 +97,7 @@ Fully local audio transcription pipeline for sensitive data. Source separation, 
 </p>
 
 </details>
+<br>
 
 #### NLP & RAG
 
@@ -168,6 +170,7 @@ SmartRescue is an AI-powered assistant for emergency call centers. It combines *
 </p>
 
 </details>
+<br>
 
 #### Statistics & Machine Learning
 
@@ -212,6 +215,7 @@ Log analysis platform using **AI-powered clustering and statistical anomaly dete
 </p>
 
 </details>
+<br>
 
 #### Utilities
 
