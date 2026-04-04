@@ -225,7 +225,7 @@ Log analysis platform using **AI-powered clustering and statistical anomaly dete
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/Selma)
 
-Interactive taxonomy explorer using tree visualization and Markdown-driven content to browse hierarchical taxonomies and present item details. Includes multilingual i18n support, a searchable sidebar, breadcrumb navigation, and a responsive Markdown viewer for detail pages.
+Interactive **taxonomy explorer template** using tree visualization and Markdown-driven content to browse hierarchical taxonomies and present item details. Includes multilingual i18n support, a searchable sidebar, breadcrumb navigation, and a responsive Markdown viewer for detail pages.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/selma.png" width="95%" alt="Selma">
