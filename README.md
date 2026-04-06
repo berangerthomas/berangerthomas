@@ -245,11 +245,11 @@ Interactive **taxonomy explorer template** using tree visualization and Markdown
 CLI tool for bulk FLAC file management: integrity analysis, repair, ReplayGain tagging, and **content-based duplicate detection via audio fingerprinting**. Designed for large-scale library maintenance.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/flactoolkit_1.png" width="95%" alt="flac_toolkit">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/flactoolkit_1.png" width="100%" alt="flac_toolkit">
 </p>
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/flactoolkit_2.jpg" width="95%" alt="flac_toolkit">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/flactoolkit_2.jpg" width="100%" alt="flac_toolkit">
 </p>
 
 </details>
@@ -277,7 +277,7 @@ Organize photos into a structured directory tree based on their EXIF metadata.
 Convert and compact multiple .eml files into a single pdf document.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/eml2pdf.png" width="80%" alt="eml2pdf">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/eml2pdf.png" width="100%" alt="eml2pdf">
 </p>
 
 </details>
