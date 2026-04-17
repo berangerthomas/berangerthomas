@@ -97,6 +97,25 @@ Fully local audio transcription pipeline for sensitive data. Source separation, 
 </p>
 
 </details>
+
+<details>
+<summary><b>flac_toolkit</b> — CLI for FLAC audio file management</summary>
+<br>
+
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/flac_toolkit)
+
+CLI tool for bulk FLAC file management: integrity analysis, repair, ReplayGain tagging, and **content-based duplicate detection via audio fingerprinting**. Designed for large-scale library maintenance.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/flactoolkit_1.png" width="100%" alt="flac_toolkit">
+</p>
+<br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/flactoolkit_2.jpg" width="100%" alt="flac_toolkit">
+</p>
+
+</details>
+
 <br>
 
 #### NLP & RAG
@@ -235,24 +254,6 @@ Interactive **taxonomy explorer template** using tree visualization and Markdown
 <br>
 
 #### Utilities
-
-<details>
-<summary><b>flac_toolkit</b> — CLI for FLAC audio file management</summary>
-<br>
-
-[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/flac_toolkit)
-
-CLI tool for bulk FLAC file management: integrity analysis, repair, ReplayGain tagging, and **content-based duplicate detection via audio fingerprinting**. Designed for large-scale library maintenance.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/flactoolkit_1.png" width="100%" alt="flac_toolkit">
-</p>
-<br>
-<p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/flactoolkit_2.jpg" width="100%" alt="flac_toolkit">
-</p>
-
-</details>
 
 <details>
 <summary><b>ORBIT</b> — Organized Repositories Based on Images Timing</summary>
