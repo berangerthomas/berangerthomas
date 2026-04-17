@@ -191,6 +191,23 @@ SmartRescue is an AI-powered assistant for emergency call centers. It combines *
 </details>
 <br>
 
+#### Data visualization
+
+<details>
+<summary><b>Selma</b> — Hierarchical taxonomy visualizer TypeScript template.</summary>
+<br>
+
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/Selma) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://berangerthomas.github.io/selma) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/selma)
+
+Interactive **taxonomy explorer template** using tree visualization and Markdown-driven content to browse hierarchical taxonomies and present item details. Includes multilingual i18n support, a searchable sidebar, breadcrumb navigation, and a responsive Markdown viewer for detail pages.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/selma.png" width="95%" alt="Selma">
+</p>
+
+</details>
+<br>
+
 #### Statistics & Machine Learning
 
 <details>
@@ -231,23 +248,6 @@ Log analysis platform using **AI-powered clustering and statistical anomaly dete
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/shadowlog.png" width="95%" alt="ShadowLog">
-</p>
-
-</details>
-<br>
-
-#### Data visualization
-
-<details>
-<summary><b>Selma</b> — Hierarchical taxonomy visualizer TypeScript template.</summary>
-<br>
-
-[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/Selma) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://berangerthomas.github.io/selma) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/selma)
-
-Interactive **taxonomy explorer template** using tree visualization and Markdown-driven content to browse hierarchical taxonomies and present item details. Includes multilingual i18n support, a searchable sidebar, breadcrumb navigation, and a responsive Markdown viewer for detail pages.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/selma.png" width="95%" alt="Selma">
 </p>
 
 </details>
