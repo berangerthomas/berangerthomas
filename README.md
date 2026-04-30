@@ -22,6 +22,16 @@
 
 </div>
 
+---
+<br>
+
+Currently working on : [Selma](https://github.com/berangerthomas/Selma), a React + D3 template for visualising taxonomic trees.
+<p align="center">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/preview_selma.png" width="100%" alt="Selma">
+</p>
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:64B5F6,100:2196F3&height=95&section=footer&text=About%20Me&fontSize=24&fontColor=ffffff&fontAlignY=75" width="100%"/>
 
 **AI engineer and data scientist** focused on solving complex business through the **design and industrialization of ML/AI solutions**. I combine technical expertise in AI/machine learning, MLOps and software developement with a rigorous approach to bridge the gap between experimental innovation and reliable production systems.
