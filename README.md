@@ -25,7 +25,7 @@
 ---
 <br>
 
-Currently working on : [Selma](https://github.com/berangerthomas/Selma), a React + D3 template for visualising taxonomic trees.
+Currently working on : [Selma](https://github.com/berangerthomas/Selma), a React + D3 template for visualising taxonomic and DAG trees.
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/preview_selma.png" width="100%" alt="Selma">
 </p>
@@ -204,12 +204,12 @@ SmartRescue is an AI-powered assistant for emergency call centers. It combines *
 #### Data visualization
 
 <details>
-<summary><b>Selma</b> — Hierarchical taxonomy visualizer TypeScript template.</summary>
+<summary><b>Selma</b> — Hierarchical taxonomy and DAG visualizer TypeScript template.</summary>
 <br>
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/Selma) [![Doc](https://img.shields.io/badge/📖_Doc-0288D1?style=flat-square)](https://berangerthomas.github.io/selma) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://huggingface.co/spaces/berangerthomas/selma)
 
-Interactive **taxonomy explorer template** using tree visualization and Markdown-driven content to browse hierarchical taxonomies and present item details. Includes multilingual i18n support, a searchable sidebar, breadcrumb navigation, and a responsive Markdown viewer for detail pages.
+Interactive explorer template for **hierarchical and directed acyclic graph** (DAG) taxonomies. Integrates D3.js visualizations with Markdown-driven content to navigate complex relationships and present item details. Includes multilingual support, a searchable sidebar, breadcrumb navigation, and a responsive Markdown viewer.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/selma.png" width="95%" alt="Selma">
