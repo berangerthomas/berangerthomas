@@ -88,6 +88,8 @@ Two main components:
 
 </details>
 
+<br>
+
 #### Speech & Audio Processing
 
 <details>
