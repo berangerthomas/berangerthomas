@@ -25,7 +25,7 @@
 ---
 <br>
 
-Currently working on : [Selma](https://github.com/berangerthomas/Selma), a React + D3 template for visualising taxonomic and DAG trees.
+Currently working on : [Veona](https://github.com/berangerthomas/Veona), an open-source monitoring platform built with Go and TypeScript, and [Selma](https://github.com/berangerthomas/Selma), a React + D3 template for visualising taxonomic and DAG trees.
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/preview_selma.png" width="100%" alt="Selma">
 </p>
