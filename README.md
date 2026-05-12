@@ -74,6 +74,20 @@ Here are some projects I have engineered or contributed to, from ideation to pro
 *(click to expand)*
 <br>
 
+#### Machine Learning
+
+<details>
+<summary><b>Veona</b> — Push-based ML powered system monitoring platform</summary>
+<br>
+
+Two main components:
+- A **Go agent** that collects system metrics — CPU, memory, disk, network, GPU, processes, battery, entropy, NTP drift — and ships them via compressed HTTP batches.
+- A **TypeScript/Hono server** that validates authentication, transforms metrics to Prometheus format, and forwards them to VictoriaMetrics for time-series storage.
+
+**What's next:** Machine learning capabilities are planned for a second phase — anomaly detection on metric streams, predictive alerting using trained models, and automated baseline profiling of system behavior across fleets of agents.
+
+</details>
+
 #### Speech & Audio Processing
 
 <details>
