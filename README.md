@@ -25,7 +25,7 @@
 ---
 <br>
 
-Currently working on : [Veona](https://github.com/berangerthomas/Veona), an open-source monitoring platform built with Go and TypeScript, [Selma](https://github.com/berangerthomas/Selma), a React + D3 template for visualising taxonomic and DAG trees, and ChartAtlas, a Rosetta Stone-style chart library.
+Currently working on : [Veona](https://github.com/berangerthomas/Veona), an open-source monitoring platform built with Go and TypeScript, [Selma](https://github.com/berangerthomas/Selma), a React + D3 template for visualising taxonomic and DAG trees, and [ChartAtlas](https://chartatlas.pages.dev/), a Rosetta Stone-style chart library.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/chartatlas.png" width="100%" alt="Selma">
