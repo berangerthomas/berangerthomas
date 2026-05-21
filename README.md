@@ -234,6 +234,22 @@ Interactive explorer template for **hierarchical and directed acyclic graph** (D
 </details>
 <br>
 
+<details>
+<summary><b>ChartAtlas</b> — Interactive chart catalogue; source code for each chart type.</summary>
+<br>
+
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/ChartAtlas) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://chartatlas.pages.dev/)
+
+Inspired by the Financial Times’ “visual vocabulary” (link), I’ve compiled these charts into a dynamic interface and included code from five different programming libraries to generate them. This tool is designed for data analysts to select and create their own charts, and it serves as a Rosetta Stone for Python (Matplotlib and Seaborn), R, D3.js, and Julia.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/chartatlas" width="95%" alt="ChartAtlas">
+</p>
+
+</details>
+<br>
+
+
 #### Statistics & Machine Learning
 
 <details>
