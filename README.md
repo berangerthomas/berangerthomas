@@ -25,9 +25,10 @@
 ---
 <br>
 
-Currently working on : [Veona](https://github.com/berangerthomas/Veona), an open-source monitoring platform built with Go and TypeScript, and [Selma](https://github.com/berangerthomas/Selma), a React + D3 template for visualising taxonomic and DAG trees.
+Currently working on : [Veona](https://github.com/berangerthomas/Veona), an open-source monitoring platform built with Go and TypeScript, [Selma](https://github.com/berangerthomas/Selma), a React + D3 template for visualising taxonomic and DAG trees, and ChartAtlas, a Rosetta Stone-style chart library.
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/preview_selma.png" width="100%" alt="Selma">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/chartatlas.png" width="100%" alt="Selma">
 </p>
 
 ---
@@ -232,7 +233,6 @@ Interactive explorer template for **hierarchical and directed acyclic graph** (D
 </p>
 
 </details>
-<br>
 
 <details>
 <summary><b>ChartAtlas</b> — Interactive chart catalogue; source code for each chart type.</summary>
@@ -240,10 +240,10 @@ Interactive explorer template for **hierarchical and directed acyclic graph** (D
 
 [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/ChartAtlas) [![Demo](https://img.shields.io/badge/🚀_Demo-FF6F00?style=flat-square)](https://chartatlas.pages.dev/)
 
-Inspired by the Financial Times’ “visual vocabulary” (link), I’ve compiled these charts into a dynamic interface and included code from five different programming libraries to generate them. This tool is designed for data analysts to select and create their own charts, and it serves as a Rosetta Stone for Python (Matplotlib and Seaborn), R, D3.js, and Julia.
+Inspired by the Financial Times' "[visual vocabulary](https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary)", I've compiled these charts into a dynamic interface and included code from five different programming libraries to generate them. This tool is designed for data analysts to select and create their own charts, and it serves as a Rosetta Stone for Python (Matplotlib and Seaborn), R, D3.js, and Julia.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/chartatlas" width="95%" alt="ChartAtlas">
+<img src="https://raw.githubusercontent.com/berangerthomas/berangerthomas/main/assets/chartatlas.png" width="95%" alt="ChartAtlas">
 </p>
 
 </details>
