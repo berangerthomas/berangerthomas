@@ -75,7 +75,7 @@ Here are some projects I have engineered or contributed to, from ideation to pro
 *(click to expand)*
 <br>
 
-#### Machine Learning
+#### Machine learning
 
 <details>
 <summary><b>Veona</b> — Push-based ML powered system monitoring platform</summary>
@@ -91,7 +91,7 @@ Two main components:
 
 <br>
 
-#### Speech & Audio Processing
+#### Audio & speech processing
 
 <details>
 <summary><b>ASR.lab</b> — Multi-engine ASR benchmarking framework</summary>
@@ -250,7 +250,7 @@ Inspired by the Financial Times' "[visual vocabulary](https://github.com/Financi
 <br>
 
 
-#### Statistics & Machine Learning
+#### Statistics & machine learning
 
 <details>
 <summary><b>School of statistics</b> — Interactively explore statistical and machine learning concepts</summary>
