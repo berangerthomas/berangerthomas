@@ -176,10 +176,10 @@ Automated pipeline combining web scraping with LLM-based structured extraction. 
 </details>
 
 <details>
-<summary><b>PRISM</b> — Pattern Recognition & Intelligent Similarity Matcher</summary>
+<summary><b>PARISIM</b> — PAttern Recognition & Intelligent SIMilarity Matcher</summary>
 <br>
 
-[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/PRISM)
+[![Code](https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/berangerthomas/PARISIM)
 
 Composable Python library for string similarity matching. Supports **edit distance** (Levenshtein, Damerau-Levenshtein, Hamming), **sequence similarity** (Jaro-Winkler), **token-based** (TF-IDF), **phonetic** (Soundex, Metaphone) and **semantic similarity** (Jina Embeddings) with unified API.
 
